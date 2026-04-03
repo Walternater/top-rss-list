@@ -1,6 +1,7 @@
 # top-rss-list
 
 记录 ifeed中 订阅人数最多的RSS源 订阅数量从多到少
+![](https://raw.githubusercontent.com/weekend-project-space/weekend-project-space/refs/heads/main/static/images/wechat.jpg)
 
 [加入RSS交流群,与大佬一起交流](https://raw.githubusercontent.com/weekend-project-space/weekend-project-space/refs/heads/main/static/images/wechat.jpg)
 
