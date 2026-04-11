@@ -5,7 +5,7 @@
 
 [加入RSS交流群,与大佬一起交流](https://raw.githubusercontent.com/weekend-project-space/weekend-project-space/refs/heads/main/static/images/wechat.jpg)
 
-[RSS公众号，发现新大陆](https://zhidayingxiao.cn/to/06g6wV)
+[RSS公众号，发现新大陆](https://raw.githubusercontent.com/weekend-project-space/weekend-project-space/refs/heads/main/static/images/mp.jpg)
 
 [rsshub使用快速上手-小白向](https://ifeed.cc/rss)
 
